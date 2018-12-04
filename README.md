@@ -1,21 +1,11 @@
-# vueproject
+Vue移动端界面的小案例
+----------------------------
+预览图
+================
+主页面<br>
+![主页]()
+子页面<br>
+![子页]()
+这个小demo包含了Vue的非常多的基础知识，以及通过快速搭建一个组件化工程的详细步骤和注意事项
 
-> A Vue.js project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
